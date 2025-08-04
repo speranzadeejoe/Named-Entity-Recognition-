@@ -83,5 +83,3 @@ The model is trained on padded word sequences and outputs one tag per token.
 
 Speranza Deejoe  
 ```
-
-Let me know if you want this as a downloadable `.md` file or if you'd like to include a project screenshot or Colab link in the README.
